@@ -1766,6 +1766,28 @@ section.lazy-placeholder:after {
 .cid-s9q61zK2Y6 .mbr-text {
   color: #767676;
 }
+.cid-s9rCsAqR1r {
+  background: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #55b4d4, #ffffff);
+}
+.cid-s9rCsAqR1r .image-block {
+  margin: auto;
+}
+.cid-s9rCsAqR1r figcaption {
+  position: relative;
+}
+.cid-s9rCsAqR1r figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-s9rCsAqR1r .image-block {
+    width: 100% !important;
+  }
+}
 .cid-s8SuyC79P5 .navbar {
   background: #ffffff;
   transition: none;
