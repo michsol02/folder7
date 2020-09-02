@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-08-27_1607",
+    "name": "Sept 2020",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -48,7 +48,14 @@
     "uniqCompNum": 71,
     "versionPublish": "4.12.4",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -693,7 +700,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffd6e0\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Your Responsible 100 array is a constantly evolving record and account of your responsibility challenges, performance, risks and opportunities. \n</b></p><p><span style=\"font-size: 1.5rem;\">We’ll quickly build up a picture of your current priority responsibility issues, and of how good your policies and practices are. Your Responsible 100 array is created in minutes, and updated and improved on an ongoing basis.</span><br></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#fbebef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><p><b>Your Responsible 100 array is a constantly evolving record and account of your responsibility challenges, performance, risks and opportunities. \n</b></p><p><span style=\"font-size: 1.5rem;\">We’ll quickly build up a picture of your current priority responsibility issues, and of how good your policies and practices are. Your Responsible 100 array is created in minutes, and updated and improved on an ongoing basis.</span><br></p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-g",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
