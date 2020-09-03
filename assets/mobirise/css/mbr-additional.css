@@ -3020,61 +3020,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s9qE4fu55z {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ff7f9f;
-}
-.cid-s9qE4fu55z .line {
-  background-color: #ff7f9f;
-  color: #ff7f9f;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s9qE4fu55z .section-text {
-  padding: 2rem 0;
-  text-align: left;
-}
-.cid-s9qE4fu55z .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s9qE4fu55z .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-s9qE4ho01O {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #fbebef;
-}
-.cid-s9qE4ho01O .mbr-text,
-.cid-s9qE4ho01O blockquote {
-  color: #767676;
-}
-.cid-s9qE4j9bOI {
-  background: #fbebef;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background: linear-gradient(0deg, #ff7f9f, #fbebef);
-}
-.cid-s9qE4j9bOI .image-block {
-  margin: auto;
-}
-.cid-s9qE4j9bOI figcaption {
-  position: relative;
-}
-.cid-s9qE4j9bOI figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s9qE4j9bOI .image-block {
-    width: 100% !important;
-  }
-}
 .cid-s9qE4kEzLg {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -3239,56 +3184,6 @@ section.lazy-placeholder:after {
   .cid-s9qE4r9eGX .image-block {
     width: 100% !important;
   }
-}
-.cid-s9qE4rTUis {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-s9qE4rTUis .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s9qE4sCjlo {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-s9qE4sCjlo .counter-container {
-  color: #767676;
-}
-.cid-s9qE4sCjlo .counter-container ul {
-  margin-bottom: 0;
-}
-.cid-s9qE4sCjlo .counter-container ul li {
-  margin-bottom: 1rem;
-  list-style: none;
-  position: relative;
-}
-.cid-s9qE4sCjlo .counter-container ul li:before {
-  position: absolute;
-  left: -56px;
-  margin-top: -10px;
-  padding-top: 3px;
-  content: '';
-  display: inline-block;
-  text-align: center;
-  margin: 5px 10px;
-  line-height: 20px;
-  transition: all .2s;
-  color: #ffffff;
-  background: #149dcc;
-  width: 25px;
-  height: 25px;
-  border-radius: 50%;
-  content: '✓';
-}
-.cid-s9qE4tdGDE {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-s9qE4tdGDE .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-s8SuyC79P5 .navbar {
   background: #ffffff;
